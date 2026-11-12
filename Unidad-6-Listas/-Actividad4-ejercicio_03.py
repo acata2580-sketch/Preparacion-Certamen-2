@@ -1,4 +1,4 @@
-Dada la lista asignaturas, imrpime cada asignatura junto con su posición.
+#Dada la lista asignaturas, imrpime cada asignatura junto con su posición.
 asignaturas = ["Matemáticas", "Lenguaje", "Historia", "Ciencias"]
 # Muestra algo como: "0: Matemáticas", "1: Lenguaje", etc.
 salida= ""

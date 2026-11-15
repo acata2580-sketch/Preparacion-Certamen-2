@@ -3,5 +3,5 @@ asignaturas = ["Matemáticas", "Lenguaje", "Historia", "Ciencias"]
 # Muestra algo como: "0: Matemáticas", "1: Lenguaje", etc.
 salida= ""
 for i in range(len(asignaturas)):
-    salida+= '"'+str(i)+ ": "+ asignaturas[i]+'", '
+    salida+= '"'+str(i)+ ": "+ asignaturas[i]+'", ' #para que se imprima " como string da error poner """
 print(salida[:-2])

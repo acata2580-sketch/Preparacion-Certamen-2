@@ -24,3 +24,5 @@ def impares(numeros):
 print(pares(numeros))
 print(impares(numeros))
 ```
+#Las variables creadas dentro de una función son locales a esa función. Dos funciones pueden usar los mismos nombres sin interferir entre sí.
+#Aquí la variable cont inicializa en 0, pero el código funciona independientemente de eso.

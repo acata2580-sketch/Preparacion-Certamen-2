@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-![Enunciado](imagenes/Captura%20de%20pantalla_14-11-2026_234721_chemical-isthmus-d04.notion.site.jpeg)
+![Enunciado](Enunciados/Captura%20de%20pantalla_14-11-2026_234721_chemical-isthmus-d04.notion.site.jpeg)
 
 ## Mi solución en Python
 

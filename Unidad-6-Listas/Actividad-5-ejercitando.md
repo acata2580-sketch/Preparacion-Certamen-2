@@ -1,4 +1,4 @@
-# Actividad 5 — Listas
+# Actividad 5 — Ejercitando.
 
 ## Enunciado
 
@@ -7,7 +7,7 @@
 ## Mi solución en Python
 
 ```python
-# numeros = [3, 123, 4, 564, 23, 1, 95, 4]
+numeros = [3, 123, 4, 564, 23, 1, 95, 4]
 def pares(numeros):
     cont=0
     for numero in numeros:

@@ -18,6 +18,8 @@ for i in range(len(respuestas_correctas)):
 print(cont)
 ```
 
+
+
 ## Si las listas no son del mismo largo:
 ```python
 #Al acceder a lista[ i ], el índice i debe existir dentro de la lista.

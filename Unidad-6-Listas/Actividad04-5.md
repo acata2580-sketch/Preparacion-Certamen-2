@@ -35,3 +35,11 @@ print(cont)
 
 ```
 #<3
+# Esto no se puede.
+nueva= []
+nueva[0]=1
+si ejecuto da error.
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in <module>
+    nueva[0]=1
+IndexError: list assignment index out of range

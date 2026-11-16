@@ -19,8 +19,7 @@ print(cont)
 ```
 
 ```python
-
-#Si las listas no son del mismo largo:
+##Si las listas no son del mismo largo:
 """
 Al acceder a lista[i], el índice i debe existir
 dentro de la lista. Si el índice está fuera de su

@@ -16,6 +16,9 @@ for i in range(len(respuestas_correctas)):
     if respuestas_correctas[i] == respuestas_alumno[i]:
         cont += 1
 print(cont)
+```
+
+```python
 
 #Si las listas no son del mismo largo:
 """
@@ -29,9 +32,6 @@ for i in range(len(respuestas_correctas)):
         if respuestas_correctas[i]==respuestas_alumno[i]:
             cont+=1
 print(cont)
-    
-
-
 
 ```
 #<3

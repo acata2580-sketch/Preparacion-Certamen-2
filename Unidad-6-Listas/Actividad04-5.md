@@ -35,7 +35,8 @@ print(cont)
 
 ```
 #<3
-# Esto no se puede.
+# Notas adicionales:
+#Esto no se puede:
 nueva= []
 nueva[0]=1
 si ejecuto da error.
